@@ -1,0 +1,13 @@
+.user-list {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 25%;
+  padding: 10px;
+  font-size: 18px;
+  gap: 20px;
+  background-color: rgb(103, 103, 103);
+  border-radius: 10px;
+  display: flex;
+  width: 700px;
+  z-index: 1;
+}
